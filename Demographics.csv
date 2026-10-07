@@ -1,0 +1,31 @@
+﻿SID,AgeGroup,Gender,Employment,StudyLevel
+S1,22 to 25,Female,Unemployed,Postgraduate
+S2,18 to 21,Male,Yes part-time,Undergraduate
+S3,26 to 29,Female,Yes full-time,Postgraduate
+S4,26 to 29,Female,Yes full-time,Postgraduate
+S5,18 to 21,Male,Unemployed,Undergraduate
+S6,18 to 21,Male,Yes part-time,Undergraduate
+S7,18 to 21,Female,Yes part-time,Undergraduate
+S8,30 to 35,Female,Yes full-time,Postgraduate
+S9,18 to 21,Male,Unemployed,Undergraduate
+S10,18 to 21,Male,Yes part-time,Undergraduate
+S11,22 to 25,Female,Yes part-time,Undergraduate
+S12,22 to 25,Male,Yes part-time,Undergraduate
+S13,22 to 25,Female,Yes full-time,Postgraduate
+S14,22 to 25,Female,Yes full-time,Undergraduate
+S15,26 to 29,Male,Unemployed,Postgraduate
+S16,22 to 25,Male,Yes full-time,Undergraduate
+S17,26 to 29,Male,Yes part-time,Postgraduate
+S18,22 to 25,Female,Yes full-time,Postgraduate
+S19,30 to 35,Female,Yes full-time,Postgraduate
+S20,18 to 21,Male,Yes part-time,Undergraduate
+S21,22 to 25,Female,Yes part-time,Postgraduate
+S22,30 to 35,Male,Yes full-time,Other
+S23,18 to 21,Male,Unemployed,Undergraduate
+S24,30 to 35,Female,Yes full-time,Other
+S25,22 to 25,Female,Unemployed,Postgraduate
+S26,26 to 29,Female,Yes part-time,Postgraduate
+S27,18 to 21,Male,Yes part-time,Undergraduate
+S28,18 to 21,Male,Unemployed,Undergraduate
+S29,26 to 29,Female,Yes part-time,Undergraduate
+S30,22 to 25,Female,Yes part-time,Undergraduate

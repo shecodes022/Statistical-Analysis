@@ -1,0 +1,31 @@
+﻿SID ,StudyHours,AssessmentScores,Modules,SleepHours,Attendance,SocialMedia
+S1,2 hours,64,4,5 to 6 hours,4,3 to 4 hours
+S2,2 hours,47.5,4,6  to 7 hours,3,5 to 6 hours
+S3,3 hours,78,3,6  to 7 hours,5,1 to 2 hours
+S4,3 hours,67,3,4 to 5 hours,5,3 to 4 hours
+S5,Less than 1 hour,52,4,4 to 5 hours,2,5 to 6 hours
+S6,3 hours,72,4,5 to 6 hours,4,3 to 4 hours
+S7,3 hours,84,4,6  to 7 hours,5,3 to 4 hours
+S8,4 hours,81,3,6  to 7 hours,5,1 to 2 hours
+S9,Less than 1 hour,43,4,4 to 5 hours,2,5 to 6 hours
+S10,3 hours,69,4,6  to 7 hours,4,3 to 4 hours
+S11,3 hours,72,4,6  to 7 hours,5,3 to 4 hours
+S12,2 hours,61,3,5 to 6 hours,3,1 to 2 hours
+S13,4 hours,86,4,5 to 6 hours,5,1 to 2 hours
+S14,2 hours,63,4,5 to 6 hours,5,3 to 4 hours
+S15,4 hours,84,4,6  to 7 hours,5,1 to 2 hours
+S16,Less than 1 hour,57,4,5 to 6 hours,2,5 to 6 hours
+S17,4 hours,83,3,5 to 6 hours,4,1 to 2 hours
+S18,3 hours,91,4,5 to 6 hours,5,1 to 2 hours
+S19,3 hours,79,2,6  to 7 hours,5,Less than 1 hour
+S20,Less than 1 hour,52,4,4 to 5 hours,2,5 to 6 hours
+S21,3 hours,89,4,5 to 6 hours,4,1 to 2 hours
+S22,4 hours,92,3,5 to 6 hours,5,Less than 1 hour
+S23,3 hours,65,4,8 hours or more,3,5 to 6 hours
+S24,2 hours,81,3,6  to 7 hours,3,1 to 2 hours
+S25,3 hours,85,4,6  to 7 hours,4,5 to 6 hours
+S26,3 hours,73,3,6  to 7 hours,4,3 to 4 hours
+S27,2 hours,56,3,8 hours or more,2,3 to 4 hours
+S28,Less than 1 hour,48,3,8 hours or more,1,5 to 6 hours
+S29,3 hours,73,4,8 hours or more,5,3 to 4 hours
+S30,2 hours,68,3,6  to 7 hours,3,3 to 4 hours
